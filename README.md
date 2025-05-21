@@ -1,1 +1,1 @@
-# Ayurvedic-Doctor-Appointment-System-
+The Ayurvedic Doctor Appointment System is a web-based application designed to facilitate online appointment booking with Ayurvedic doctors. The system allows patients to book appointments with doctors based on their availability and specialty.
